@@ -122,6 +122,10 @@ celerybeat.pid
 credentials.json
 token.json
 
+# Database
+*.sqlite3
+.db
+
 # SageMath parsed files
 *.sage.py
 
